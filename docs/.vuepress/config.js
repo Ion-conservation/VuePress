@@ -1,6 +1,6 @@
 module.exports = {
-  title: "个人主页",
-  description: "Personal Website",
+  title: "主页",
+  description: "芝麻的学习记录",
   head: [
     // 注入到当前页面的 HTML <head> 中的标签
     [
@@ -55,49 +55,41 @@ module.exports = {
     nav: [
       // 导航栏配置
       {
-        text: "HTML",
-        link: "/HTML/",
+        text: "教程",
+        items: [
+          { text: "HTML", link: "/HTML/" },
+          { text: "CSS", link: "/CSS/" },
+          { text: "JavaScript", link: "/JavaScript/" },
+          { text: "Vue", link: "/Vue/" },
+          { text: "React", link: "/React/" },
+          { text: "Webpack", link: "/Webpack/" },
+          { text: "NodeJs", link: "/NodeJs/" },
+        ],
       },
       {
-        text: "CSS",
-        link: "/CSS/",
+        text: "文章阅读",
+        link: "/article/前端框架源码",
       },
       {
-        text: "JavaScript",
-        link: "/JavaScript/",
+        text: "踩坑",
+        link: "/bad/",
       },
       {
-        text: "Vue",
-        link: "/Vue/",
+        text: "思考一下",
+        link: "/think/",
       },
-      {
-        text: "React",
-        link: "/React/",
-      },
-      {
-        text: "Webpack",
-        link: "/Webpack/",
-      },
-      {
-        text: "NodeJs",
-        link: "/NodeJs/",
-      },
-      // {text: 'GitHub', link: 'https://baidu.com'}
+      { text: "Gitee", link: "https://gitee.com/zouzhenpeng" },
     ],
     sidebar: {
-      "/HTML/": [
+      "/bad/": ["bada", "badb"],
+      "/think/": ["30岁左右的人，来谈谈你犯了哪些错误"],
+      "/article/": [
         {
-          title: "HTML",
-          children: [
-            // '',
-            "基础",
-            "进阶",
-          ],
+          title: "源码阅读指南",
+          sidebarDepth: 2,
+          children: ["前端框架源码"],
         },
       ],
     },
-    // sidebar: 'auto', // 侧边栏配置
-    sidebarDepth: 2,
-    displayAllHeaders: true, // 默认值：false
   },
 }
