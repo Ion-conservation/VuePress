@@ -21,23 +21,23 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c24adf93e8ef052e5d8b8376f93522da"
+    "revision": "4489f4210177516129e3724bbab4a532"
   },
   {
     "url": "article/a.html",
-    "revision": "bad6cc16ce578cfd44fd1761991090a0"
+    "revision": "b2c382e5714c3de4a3151e3e6f302389"
   },
   {
     "url": "article/b.html",
-    "revision": "7067af0505b4f5dd04e6bef0f0c06c8a"
+    "revision": "40b779c053886260b77d13a4b3ab65e1"
   },
   {
     "url": "article/index.html",
-    "revision": "76b44ba593770d7ce29568bc08859135"
+    "revision": "8cce914b4f55a9ff63aa2c2ba4412569"
   },
   {
     "url": "article/前端框架源码.html",
-    "revision": "d17bae64ececbd7f1bb8045a1726ae55"
+    "revision": "be18f97fd578e961aca6c2757ad1f4fa"
   },
   {
     "url": "assets/css/0.styles.6aaa91c1.css",
@@ -144,84 +144,84 @@ self.__precacheManifest = [
     "revision": "8366388359cc3d1e9eeb6787f296477d"
   },
   {
-    "url": "assets/js/app.0c889174.js",
-    "revision": "50e3bb62fc3990deb293aff99ddb8630"
+    "url": "assets/js/app.f7c1150b.js",
+    "revision": "1995645f9005e2d3558b9657ba2724b1"
   },
   {
     "url": "bad/bada.html",
-    "revision": "49dce0689088525c73e1b6fbd281bf00"
+    "revision": "cc2b0d37f7381591419b3db147c3a675"
   },
   {
     "url": "bad/badb.html",
-    "revision": "e15e132d6c03f38e3cbcfca0d7e0cdc3"
+    "revision": "29d8e1f5a99404e4702ff389cc95b29f"
   },
   {
     "url": "bad/index.html",
-    "revision": "32cad22c40782b2edbc4e878643c485a"
+    "revision": "808473da0b22652cdc10d56d7fa0a7e5"
   },
   {
     "url": "CSS/index.html",
-    "revision": "89a6d67be50b72a8dae727b91a5801fb"
+    "revision": "c290896eaced2db8643bf9fab7b0a864"
   },
   {
     "url": "guide.html",
-    "revision": "7f7ef8e99f03047cc04fa3402854fe6e"
+    "revision": "bb34810a81532e3ea6ded3c2b00b3646"
   },
   {
     "url": "HTML/index.html",
-    "revision": "12bbcebb860a6c23e6d6301e1e48b775"
+    "revision": "c7e8e6c16190991b1599ee40212457ac"
   },
   {
     "url": "HTML/基础.html",
-    "revision": "405f1a43f4c078a66a3f88baf03a0e23"
+    "revision": "a4efa8f5fb5f27efc7063e10aa0286d0"
   },
   {
     "url": "HTML/进阶.html",
-    "revision": "8d32c0e8fd4d614d1065e8115596ddc5"
+    "revision": "21bd013314e1b1c94d5a05dea03696e1"
   },
   {
     "url": "index.html",
-    "revision": "2fdb3da62c1893d994f6ed5c13d7d5ef"
+    "revision": "07877d9621fb9b8c84f6b557a298444b"
   },
   {
     "url": "JavaScript/index.html",
-    "revision": "7e7521e0696bc8ca480faf65ef02459a"
+    "revision": "5c6b692f423acafc7677941067d81d5b"
   },
   {
     "url": "React/index.html",
-    "revision": "7af86f501f6ec545ef3229ff5f783c41"
+    "revision": "d459243fa55b0dd58eb11deb10befbd7"
   },
   {
     "url": "React/安装不同版本.html",
-    "revision": "59892291f71a910e771b66fc8fb6f94f"
+    "revision": "bba0e8155712a7e7b311a25fc28bd079"
   },
   {
     "url": "React/配置别名.html",
-    "revision": "ecfe5ce06af07886ced6cd02110246a5"
+    "revision": "8eaf3d17030a160520b4fccaded07865"
   },
   {
     "url": "svg/logo.svg",
-    "revision": "346e12ee28bb0e5f5600d47beb4c7a47"
+    "revision": "791e63f2b90107b2fe9df7bd82e8cfd2"
   },
   {
     "url": "think/30岁左右的人，来谈谈你犯了哪些错误.html",
-    "revision": "5f1f2a4dc87d654a1d511f6fbf2c9418"
+    "revision": "b6ad42e3380867ebd7534bdde6b24088"
   },
   {
     "url": "think/index.html",
-    "revision": "bc0b6ccd888bc6f3d3aad9db217a69ee"
+    "revision": "e9bf888b847b99bf11f50290d6ca952b"
   },
   {
     "url": "think/努力了七年却依旧被中产阶级家庭子女完爆，我该如何调整心态.html",
-    "revision": "bbc43b3404f8feeb3d7ae4664d8c6201"
+    "revision": "0726cd06f223bbc5c059df62fd049e72"
   },
   {
     "url": "think/屡试不爽的经典话术.html",
-    "revision": "dbf6b14a94f51edbd3ac02f21d8badfc"
+    "revision": "bbbe4973d053c5534b616cf03ed639e3"
   },
   {
     "url": "VScode/index.html",
-    "revision": "bcc315ebaf2e855ec5a7d9a5be0f978f"
+    "revision": "ed1da269265c32ae30a76c02579c7695"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
