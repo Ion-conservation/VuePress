@@ -4,7 +4,7 @@ heroImage: /svg/logo.svg
 heroText: Vuepress-芝麻
 tagline: 学习教程、踩坑记录
 actionText: 快速查看 →
-actionLink: /HTML/
+actionLink: /JavaScript/
 features:
   - title: 简洁至上
     details: 只有自己看得懂。

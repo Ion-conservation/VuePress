@@ -53,43 +53,23 @@ module.exports = {
   },
   themeConfig: {
     nav: [
-      // 导航栏配置
       {
-        text: "教程",
+        text: "分类",
         items: [
-          { text: "HTML", link: "/HTML/" },
-          { text: "CSS", link: "/CSS/" },
           { text: "JavaScript", link: "/JavaScript/" },
-          { text: "Vue", link: "/Vue/" },
           { text: "React", link: "/React/" },
-          { text: "Webpack", link: "/Webpack/" },
-          { text: "NodeJs", link: "/NodeJs/" },
         ],
       },
+
       {
-        text: "文章阅读",
-        link: "/article/前端框架源码",
-      },
-      {
-        text: "踩坑",
-        link: "/bad/",
-      },
-      {
-        text: "思考一下",
+        text: "文章摘录",
         link: "/think/",
       },
       { text: "Gitee", link: "https://gitee.com/zouzhenpeng" },
     ],
     sidebar: {
-      "/bad/": ["bada", "badb"],
-      "/think/": ["30岁左右的人，来谈谈你犯了哪些错误", "屡试不爽的经典话术", "努力了七年却依旧被中产阶级家庭子女完爆，我该如何调整心态"],
-      "/article/": [
-        {
-          title: "源码阅读指南",
-          sidebarDepth: 2,
-          children: ["前端框架源码"],
-        },
-      ],
+      "/JavaScript/": ['Class'],
+      "/think/": ["article-1", "article-2", "article-3"],
       "/React/": ["配置别名"],
     },
   },
