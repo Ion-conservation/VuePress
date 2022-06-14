@@ -33,6 +33,35 @@ var p = new Point(1, 2)
 ```
 ## class 基本使用
 
+```JavaScript
+class Father {
+    constructor(name, age) {
+        this.name = name
+        this.age = age
+    }
+
+    sayName() {
+        console.log(this.name)
+    }
+
+    fatherAge() {
+        console.log(this.age)
+    }
+}
+
+class Child extends Father{
+    constructor(name, age){
+        super()
+        this.name = name
+        this.age = age
+    }
+
+    childAge() {
+        console.log(this.age)
+    }
+}
+```
+
 静态方法：通过类来调用
 
 ## class 扩展
