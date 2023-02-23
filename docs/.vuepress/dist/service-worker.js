@@ -21,23 +21,23 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c24adf93e8ef052e5d8b8376f93522da"
+    "revision": "ed6ecec4fa9d1cf2842441e30d7600b4"
   },
   {
     "url": "article/a.html",
-    "revision": "bad6cc16ce578cfd44fd1761991090a0"
+    "revision": "03fc8710ab8e5a9a404a0762abbab376"
   },
   {
     "url": "article/b.html",
-    "revision": "7067af0505b4f5dd04e6bef0f0c06c8a"
+    "revision": "1409b67223698d194090378da4d54cf0"
   },
   {
     "url": "article/index.html",
-    "revision": "76b44ba593770d7ce29568bc08859135"
+    "revision": "bdfc47b7106b84d7b72a8ae4f5b7627b"
   },
   {
     "url": "article/前端框架源码.html",
-    "revision": "d17bae64ececbd7f1bb8045a1726ae55"
+    "revision": "ad925c6aaf71cd049690596a1e31d19e"
   },
   {
     "url": "assets/css/0.styles.6aaa91c1.css",
@@ -144,60 +144,60 @@ self.__precacheManifest = [
     "revision": "8366388359cc3d1e9eeb6787f296477d"
   },
   {
-    "url": "assets/js/app.0c889174.js",
-    "revision": "50e3bb62fc3990deb293aff99ddb8630"
+    "url": "assets/js/app.bba8b536.js",
+    "revision": "96391cc8ed8719b40c1b718cb6722bbd"
   },
   {
     "url": "bad/bada.html",
-    "revision": "49dce0689088525c73e1b6fbd281bf00"
+    "revision": "7c4476783e9a3f97ecc03b93c285acee"
   },
   {
     "url": "bad/badb.html",
-    "revision": "e15e132d6c03f38e3cbcfca0d7e0cdc3"
+    "revision": "00e0b8f95beb92948294dac288e49d47"
   },
   {
     "url": "bad/index.html",
-    "revision": "32cad22c40782b2edbc4e878643c485a"
+    "revision": "4585f19be6b51a115713b2ec3de17be1"
   },
   {
     "url": "CSS/index.html",
-    "revision": "89a6d67be50b72a8dae727b91a5801fb"
+    "revision": "ce608b34799e08256e1749658c03e875"
   },
   {
     "url": "guide.html",
-    "revision": "7f7ef8e99f03047cc04fa3402854fe6e"
+    "revision": "a54ff13dfef812c99fcecf52e28b9024"
   },
   {
     "url": "HTML/index.html",
-    "revision": "12bbcebb860a6c23e6d6301e1e48b775"
+    "revision": "523dd16d323babd4146cefa3b0791ccd"
   },
   {
     "url": "HTML/基础.html",
-    "revision": "405f1a43f4c078a66a3f88baf03a0e23"
+    "revision": "b9bebdbeb38d7e7e45c4f4c426092df3"
   },
   {
     "url": "HTML/进阶.html",
-    "revision": "8d32c0e8fd4d614d1065e8115596ddc5"
+    "revision": "3efafd340f9117d77f4018fad6061932"
   },
   {
     "url": "index.html",
-    "revision": "2fdb3da62c1893d994f6ed5c13d7d5ef"
+    "revision": "9dfaffa2e322727978ecdeafb84cddfb"
   },
   {
     "url": "JavaScript/index.html",
-    "revision": "7e7521e0696bc8ca480faf65ef02459a"
+    "revision": "176f1492a1261289f8bd636cf423c39a"
   },
   {
     "url": "React/index.html",
-    "revision": "7af86f501f6ec545ef3229ff5f783c41"
+    "revision": "92257a7b73425c419d90c522c40789a8"
   },
   {
     "url": "React/安装不同版本.html",
-    "revision": "59892291f71a910e771b66fc8fb6f94f"
+    "revision": "48d1b7db92ce110f001179ae3779f6ec"
   },
   {
     "url": "React/配置别名.html",
-    "revision": "ecfe5ce06af07886ced6cd02110246a5"
+    "revision": "7fb8157611f86ea78822abbb665bdb67"
   },
   {
     "url": "svg/logo.svg",
@@ -205,23 +205,23 @@ self.__precacheManifest = [
   },
   {
     "url": "think/30岁左右的人，来谈谈你犯了哪些错误.html",
-    "revision": "5f1f2a4dc87d654a1d511f6fbf2c9418"
+    "revision": "bee09dcd28b45addff962097ca60415f"
   },
   {
     "url": "think/index.html",
-    "revision": "bc0b6ccd888bc6f3d3aad9db217a69ee"
+    "revision": "9505b4303b4330df817e295604eb70af"
   },
   {
     "url": "think/努力了七年却依旧被中产阶级家庭子女完爆，我该如何调整心态.html",
-    "revision": "bbc43b3404f8feeb3d7ae4664d8c6201"
+    "revision": "a20c6ff6554dabf8fde88060b9c94e7d"
   },
   {
     "url": "think/屡试不爽的经典话术.html",
-    "revision": "dbf6b14a94f51edbd3ac02f21d8badfc"
+    "revision": "f6b9624947739d6418bb65983ae4a422"
   },
   {
     "url": "VScode/index.html",
-    "revision": "bcc315ebaf2e855ec5a7d9a5be0f978f"
+    "revision": "d8e132a165b477e02dfa9ed791726395"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
